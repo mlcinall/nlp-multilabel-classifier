@@ -19,7 +19,7 @@
 1. **Клонируйте репозиторий**:
 
    ```bash
-   git clone https://github.com/l1ghtsource/ecom-tech-workshop.git
+   git clone https://github.com/mlcinall/ecom-tech-workshop.git
    cd ecom-tech-workshop
    ```
 
