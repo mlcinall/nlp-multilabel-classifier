@@ -19,7 +19,7 @@
 1. **Клонируйте репозиторий**:
 
    ```bash
-   git clone https://github.com/mlcinall/ecom-tech-workshop.git
+   git clone https://github.com/mlcinall/nlp-multilabel-classifier.git
    cd ecom-tech-workshop
    ```
 
@@ -69,7 +69,7 @@
    make convert
    ```
 
-   В итоге в корне папки `ecom-tech-workshop/` окажется файл `submission.csv`.
+   В итоге в корне папки `nlp-multilabel-classifier/` окажется файл `submission.csv`.
 
 4. **Запустите Streamlit приложение**:
 
@@ -90,7 +90,7 @@
 ## Структура проекта
 
 ```
-ecom-tech-workshop/
+nlp-multilabel-classifier/
 │
 ├── app.py                  # Основной файл приложения Streamlit
 ├── configs/                # Конфигурационные файлы для обучения и инференса
